@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : " "
+title                    : "Main"
 title_separator          : "-"
 name                     : &name "Chris Mingard"
 description              : &description "personal description"
