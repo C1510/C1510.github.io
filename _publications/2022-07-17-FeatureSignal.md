@@ -1,5 +1,5 @@
 ---
-title: "Neural networks are a priori biased towards Boolean functions with low entropy"
+title: "Feature Learning and Signal Propagation in Deep Neural Networks"
 collection: publications
 permalink: /publications/2022-FeatureSignal
 excerpt: 'Recent work by Baratin et al. (2021) sheds light on an intriguing pattern that occurs during the training of deep neural networks: some layers align much more with data compared to other layers'
